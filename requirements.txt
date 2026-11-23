@@ -1,5 +1,4 @@
-pycryptodome
-pyroblack==2.7.2
+program 
 pyromod==1.5
 requests
 cloudscraper
